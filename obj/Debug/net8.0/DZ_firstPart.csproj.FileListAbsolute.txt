@@ -1,0 +1,14 @@
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\obj\Debug\net8.0\DZ_firstPart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\obj\Debug\net8.0\DZ_firstPart.AssemblyInfoInputs.cache
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\obj\Debug\net8.0\DZ_firstPart.AssemblyInfo.cs
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\obj\Debug\net8.0\DZ_firstPart.csproj.CoreCompileInputs.cache
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\bin\Debug\net8.0\DZ_firstPart.exe
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\bin\Debug\net8.0\DZ_firstPart.deps.json
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\bin\Debug\net8.0\DZ_firstPart.runtimeconfig.json
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\bin\Debug\net8.0\DZ_firstPart.dll
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\bin\Debug\net8.0\DZ_firstPart.pdb
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\obj\Debug\net8.0\DZ_firstPart.dll
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\obj\Debug\net8.0\refint\DZ_firstPart.dll
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\obj\Debug\net8.0\DZ_firstPart.pdb
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\obj\Debug\net8.0\DZ_firstPart.genruntimeconfig.cache
+C:\Users\dgirolamo\Desktop\C#\DZ_firstPart\obj\Debug\net8.0\ref\DZ_firstPart.dll
